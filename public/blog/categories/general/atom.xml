@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: General | .abacus]]></title>
+  <link href="http://vineet7kumar.github.io/blog/categories/general/atom.xml" rel="self"/>
+  <link href="http://vineet7kumar.github.io/"/>
+  <updated>2014-10-01T01:50:58-04:00</updated>
+  <id>http://vineet7kumar.github.io/</id>
+  <author>
+    <name><![CDATA[Vineet Kumar]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://vineet7kumar.github.io/blog/2014/10/01/hello-world/"/>
+    <updated>2014-10-01T01:49:16-04:00</updated>
+    <id>http://vineet7kumar.github.io/blog/2014/10/01/hello-world</id>
+    <content type="html"><![CDATA[<h3>Just announcing that this is my new home on the web!</h3>
+]]></content>
+  </entry>
+  
+</feed>
