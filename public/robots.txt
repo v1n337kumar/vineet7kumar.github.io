@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://vineet7kumar.github.io/sitemap.xml 
