@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: General | .abacus]]></title>
+  <title><![CDATA[Category: general | .abacus]]></title>
   <link href="http://vineet7kumar.github.io/blog/categories/general/atom.xml" rel="self"/>
   <link href="http://vineet7kumar.github.io/"/>
-  <updated>2014-10-01T02:33:19-04:00</updated>
+  <updated>2014-11-04T21:51:03-05:00</updated>
   <id>http://vineet7kumar.github.io/</id>
   <author>
     <name><![CDATA[Vineet Kumar]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Hello World]]></title>
+    <title type="html"><![CDATA[Hello world]]></title>
     <link href="http://vineet7kumar.github.io/blog/2014/10/01/hello-world/"/>
     <updated>2014-10-01T01:49:16-04:00</updated>
     <id>http://vineet7kumar.github.io/blog/2014/10/01/hello-world</id>
